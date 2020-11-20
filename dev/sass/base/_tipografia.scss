@@ -5,11 +5,18 @@ h1{
     font-style:regular;
     color: $color-negro;
 }
-//Titulo
+//Titulo principal
 h3{
     font-family:$font-family;
     font-size: convertir(36);
-    font-style:bolder;
+    font-style:bold;
+    color: $color-negro;
+}
+//Titulos opciones
+h4{
+    font-family:$font-family;
+    font-size: convertir(18);
+    font-style:bold;
     color: $color-negro;
 }
 p.general{

@@ -1,0 +1,23 @@
+// ABSTRACT
+@import 'abstract/variables';
+@import 'abstract/functions';
+
+
+// BASE
+@import 'base/normalize';
+@import 'base/reset';
+@import 'base/tipografia';
+
+// COMPONENTS
+@import 'components/botones';
+
+// LAYOUT
+@import 'layouts/footer';
+@import 'layouts/body';
+@import 'layouts/grids';
+@import 'layouts/header';
+@import 'layouts/sectionPrimera';
+@import 'layouts/sectionSegunda';
+@import 'layouts/sectionTercera';
+
+
